@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1666534609 source:c:\users\abdul basit\desktop\programming\data structures\assignment 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"Josephus.h"
+	"Node.h"
+
+1666436232 c:\users\abdul basit\desktop\programming\data structures\assignment 1\josephus.h
+
+1666426380 c:\users\abdul basit\desktop\programming\data structures\assignment 1\node.h
+
+1666444634 source:c:\users\abdul basit\desktop\programming\data structures\assignment 1\josephus.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"Node.h"
+
+1666603515 source:c:\users\aayan\onedrive - fairburyjeffs.org\uni materials\3rd semester\dsa csc - 211\assignments\assignment 1\josephus.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"Node.h"
+
+1666603508 c:\users\aayan\onedrive - fairburyjeffs.org\uni materials\3rd semester\dsa csc - 211\assignments\assignment 1\node.h
+
+1666605004 source:c:\users\aayan\onedrive - fairburyjeffs.org\uni materials\3rd semester\dsa csc - 211\assignments\assignment 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"Josephus.h"
+	"Node.h"
+
+1666603508 c:\users\aayan\onedrive - fairburyjeffs.org\uni materials\3rd semester\dsa csc - 211\assignments\assignment 1\josephus.h
+
+1666798462 source:c:\users\abdul basit\downloads\assignment 1\assignment 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"Josephus.h"
+	"Node.h"
+
+1666798462 c:\users\abdul basit\downloads\assignment 1\assignment 1\josephus.h
+
+1666603510 c:\users\abdul basit\downloads\assignment 1\assignment 1\node.h
+
+1666799862 source:c:\users\abdul basit\desktop\programming\data structures\assignment 1\assignment 1\josephus.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"Node.h"
+
+1666862793 c:\users\abdul basit\desktop\programming\data structures\assignment 1\assignment 1\node.h
+
+1666865049 source:c:\users\abdul basit\desktop\programming\data structures\assignment 1\assignment 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"Josephus.h"
+	"Node.h"
+
+1666798462 c:\users\abdul basit\desktop\programming\data structures\assignment 1\assignment 1\josephus.h
+
